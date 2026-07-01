@@ -102,4 +102,14 @@ footer {
 .nav-toggle-label {
     display: none;
 }
+#logo {
+    font-size: 200%;
+    line-height: 75px;
+    margin:0 0.5rem;
+}
+/*Main content area*/
+main {
+   /*push main content down to make room for the fixed header*/
+   margin-top: 79px;
+}
 
